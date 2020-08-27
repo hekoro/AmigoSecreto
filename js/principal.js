@@ -14,6 +14,7 @@ var participantes = []
     pessoa no array de participantes
 */
 
+//teste
 
 function adicionaParticipante() {
     var pessoa = document.getElementById('nome').value;
